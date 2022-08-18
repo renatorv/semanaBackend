@@ -10,7 +10,5 @@ void main(List<String> arguments) async {
   print('Server on-line: ${server.address.address}:${server.port}');
 }
 
-
-https://www.youtube.com/watch?v=0CTqZOs3YM4
-
-Semana do backend #7 - Técnica DotEnv(.env)
+https://www.youtube.com/watch?v=FbOEgTO4ayk&t=2s
+Semana do backend #9 - O conector do Postgres
